@@ -1,0 +1,180 @@
+.display-inline-block{
+	display: inline-block;
+}
+
+.relativeposition{
+	position: relative;
+}
+.absoluteposition{
+	position: absolute;
+}
+
+
+.right{
+	float: right;
+
+}
+
+
+.clearfix{
+	clear: both;
+}
+
+header{
+	height: 670px;
+	background-image: url("../images/background-image.png");
+	background-color: #cccccc;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+nav li img{
+	float: left;
+	width: 31px;
+	height: 25px;
+	margin-left: 98px;
+	margin-top: 38px;
+	
+}
+
+nav div{
+	font-size: 12px;
+	text-align: middle;
+	margin-top: 38px;
+	margin-right: 127px;
+}
+.headerli{
+	margin-left: 23px;
+	font-weight: bold;
+}
+
+.headerli a{
+	color: #000;
+	
+}
+
+.headerli a:hover{
+	text-decoration: none;
+	opacity: 0.5;
+}
+
+.headerli a:visited{
+	color:#000;
+}
+
+#firstdiv{
+	width: 532px;
+	height: 288px;
+	margin-top: 120px;
+	margin-right: 97px;
+	background-color: #C3C9CF;
+	/*box-sizing: border-box;*/
+	padding: 26px;
+	
+}
+
+#firstdiv h2 {
+	font-size: 38px;
+	margin-bottom: 37px;
+	color: #1D1D1D;
+}
+#firstdiv p{
+	font-size: 18px;
+	margin-bottom: 40px;
+	color: #787878;
+	
+}
+#firstdiv span{
+	font-size: 12px;
+	background-color: #10C9C3;
+	padding: 18px 46px;
+}
+
+#firsta{
+	color: #FFFFFF;
+}
+
+#firsta:hover{
+	text-decoration: none;
+	opacity: 0.5;
+}
+
+#firsta:visited{
+	color:#FFFFFF;
+}
+
+@media screen and (max-width: 375px){
+   header{
+    height: 670px;
+	background-image: url("../images/background-image.png");
+	background-color: #cccccc;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+  }
+
+nav li img{
+	float: left;
+	width: 36px;
+	height: 30px;
+	margin-left: 10px;
+	margin-top: 20px;
+	
+}
+
+nav ul{
+	display: inline-block;
+}
+
+nav div{
+
+	font-size: 14px;
+	
+	margin-top: -40px;
+	margin-right: 0px;
+
+}
+
+.headerli{
+	margin-left: 115px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+#dd{
+	margin-left: 115px;
+	margin-bottom: 10px;
+}
+
+#firstdiv{
+	width: 300px;
+	height: 350px;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-left: 10px;
+	background-color: #C3C9CF;
+	/*box-sizing: border-box;*/
+	padding: 26px;
+
+	
+}
+
+#firstdiv h2 {
+	font-size: 34px;
+	margin-bottom: 27px;
+
+}
+#firstdiv p{
+	font-size: 14px;
+	margin-bottom: 30px;
+
+	
+}
+#firstdiv span{
+	font-size: 9px;
+
+	padding: 13px 41px;
+
+}
+
+}

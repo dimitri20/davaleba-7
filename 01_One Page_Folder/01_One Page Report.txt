@@ -1,0 +1,57 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: 01_One Page.ai
+Color Mode: RGB color
+Color Profile: none
+Ruler Units: pixels
+Artboard Dimensions: 1366 px x 5217 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Montserrat Medium (OTF)
+Nunito Sans Regular (OTF)
+Work Sans (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\Anano\Desktop\Ed\ - \ 13\ \Links\ella-jardim-669951-unsplash.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 19028K, 3000 by 2165 pixels
+Dimensions: 786 by 567,23 points 
+Resolution: 274,809 by 274,809 pixels per inch
+
+
+C:\Users\Anano\Desktop\Ed\ - \ 13\ \Links\image-3.png
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 2681K, 1366 by 670 pixels
+Dimensions: 1366 by 670 points 
+Resolution: 72 by 72 pixels per inch
