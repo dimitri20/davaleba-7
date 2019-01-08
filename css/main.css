@@ -385,6 +385,20 @@ position: absolute;
 	padding-bottom: 60px;
 }
 
+#bulldiv{
+	background-color: #fff;
+	text-align: center;
+	padding-top: 65px;
+	padding-bottom: 133px;
+}
+
+#first{
+	margin-left: 134px;
+}
+#bulldiv li{
+	margin-right: 130px;
+}
+
 @media screen and (max-width: 375px){
    header{
     height: 670px;
