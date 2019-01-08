@@ -316,7 +316,11 @@ nav div{
 	margin-right: 66px;
 }
 
-.bannerdiv h5, p{
+.bannerdiv h5{
+	text-align: center;
+}
+
+.bannerdiv p{
 	text-align: center;
 }
 .bannerdiv h5{
@@ -346,6 +350,7 @@ nav div{
 	font-size: 24px;
 	text-align: center;
 	color:#FFFFFF;
+
 }
 
 #tel p{
@@ -353,6 +358,7 @@ nav div{
 	color: #FFFFFF;
 	padding-bottom: 95px;
 	text-transform: uppercase;
+	text-align: center;
 }
 
 #section3{
@@ -460,6 +466,47 @@ nav div{
 #input a{
 	color: #fff;
 }
+
+footer	{
+	background-color: #000;
+	padding-bottom: 100px;
+	padding-top: 100px;
+}
+
+
+
+#footdiv1{
+	margin-left: 97px;
+}
+
+#footdiv2{
+	margin-left: 245px;
+}
+#footdiv3{
+	margin-left: 145px;
+}
+footer p{
+	margin-bottom: 0rem;
+	color:#BCBCBC;
+	font-size: 15px;
+}
+footer div{
+	vertical-align: top;
+}
+#p14{
+	font-size: 18px;
+	font-weight: bold;
+	margin-bottom: 32px;
+	color: #fff;
+}
+
+#footdiv3{
+	margin-right: 57px;
+}
+#footdiv4{
+	margin-right: 135px;
+}
+
 
 @media screen and (max-width: 375px){
 	header{
